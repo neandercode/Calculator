@@ -1,0 +1,28 @@
+button {
+    width: 45px;
+    height: 45px;
+    margin: 5px;
+    font-size: 18px;
+}
+
+.number {
+    color: green;
+}
+
+.operator {
+    color: blue;
+}
+
+#clear {
+    color: blue;
+}
+
+#equal {
+    color: blue;
+}
+
+#calculator {
+    width: 200px;
+    margin: 0 auto;
+}
+
